@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tennis for you</title>
+    <link rel="icon" href="https://static.vecteezy.com/system/resources/previews/006/044/496/non_2x/set-of-tennis-logos-emblems-badges-labels-and-design-elements-free-vector.jpg">
+</head>
+
+<body>
+
+    <header>
+        <h1>TENNIS FOR YOU</h1>
+
+    </header>
+    
+    <main>
+        <h2>menu</h2>
+        <ol>
+            <li><h4>create an account</h4><p>create an account to use our services</p></li>
+            <li><h4>sign in</h4>
+            <h4>mail adress</h4><input type="text">
+            <h4>password</h4><input type="password">
+            <input type="submit"> </li>
+            <li><h4>book your ticket NOW</h4>
+            <ul>
+                <li>
+                    <ul>
+                        <h3><b><u>grand slam</u></b></h3>
+                        <li><a href="https://www.atptour.com/en/tournaments/australian-open/580/overview"><h3>AUSTRALIA OPEN</h3></a> </li>
+                        <li><a href="https://www.atptour.com/en/tournaments/roland-garros/520/overview"><h4>Roland Garros (Frensh open)</h4></a></li>
+                        <li><a href="https://www.atptour.com/en/tournaments/wimbledon/540/overview"><h4>Wimbeldon</h4></a></li>
+                        <li><a href="https://www.atptour.com/en/tournaments/us-open/560/overview"><h4>US open</h4></a></li>
+                    
+                    
+                    
+                    </ul></li>
+                    <li><a href="https://www.atptour.com/en/tournaments/davis-cup-finals/8099/overview"><h3>DAVIS CUP FINALS</h3></a> </li>
+                    <li><a href="https://www.atptour.com/en/tournaments/nitto-atp-finals/605/overview"><h3>Nitto ATP Finals</h3></a> </li>
+                <li>
+                    <ul>
+                        <h3><b><u>1000 Masters</u></b></h3>
+                        <li><a href="https://www.atptour.com/en/tournaments/toronto/421/overview"><h4>Canadian open</h4></a></li>
+                        <li><a href="https://www.atptour.com/en/tournaments/indian-wells/404/overview"><h4>Indian Wells</h4></a></li>
+                        <li><a href="https://www.atptour.com/en/tournaments/miami/403/overview"><h4>Miami Open</h4></a></li>
+                        <li><a href="https://www.atptour.com/en/tournaments/monte-carlo/410/overview"><h4>Monte-carlo Masters</h4></a></li>
+                        <li><a href="https://www.atptour.com/en/tournaments/madrid/1536/overview"><h4>Madrid Open</h4></a></li>
+                        <li><a href="https://www.atptour.com/en/tournaments/rome/416/overview"><h4>Internazionali BNL d'Italia</h4></a></li>
+                        <li><a href="https://www.atptour.com/en/tournaments/cincinnati/422/overview"><h4>Cincinnati Open</h4></a></li>
+                        <li><a href="https://www.atptour.com/en/tournaments/shanghai/5014/overview"><h4>Shanghai Masters</h4></a></li>
+                        <li><a href="https://www.atptour.com/en/tournaments/paris/352/overview"><h4>Paris Masters</h4></a></li>
+                    
+                    
+                    </ul>
+                    </li>
+                <li><a href="https://www.sportsevents365.fr/dock/competition/atp-tour"><h3>ATP Tour 500</h3></a> </li>
+                <li><a href="https://www.sportsevents365.fr/dock/competition/atp-tour"><h3>ATP Tour 250</h3></a></li>
+                
+    
+            
+            
+            </ul>
+        </li>
+        <li><h4>equipement</h4>
+        <ul> <li><b><u>racket</u></b></li>
+        <li><b><u>tennis ball</u></b></li>
+        <li><b><u>bag rackets</u></b></li></ul>
+        </li>
+        </ol>
+    
+        
+        <br> <br> <br>
+        <h2><b><u>IMPORTANT EVENTS : GRAND SLAM</u></b></h2>
+        <table>
+            <tbody>
+                <tr>
+                    <td><h3>Australia open</h3><br><img src="https://allbets.tv/wp-content/uploads/2023/02/australian-open-2024.jpg" alt="external" style="width: 50vw; min-width: 140px;"><img src="https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/5cc60877-20d0-437d-9672-2d3838d2bf24.jpeg" alt="external" style="width: 50vw; min-width: 200px;"> </td> 
+                    <td><h3>Roland Garros</h3><br><img src="https://th.bing.com/th/id/R.cce7f5a23c0cd7fd739691fc0bc95414?rik=1Sw21FtTVyYqXQ&pid=ImgRaw&r=0" alt="external" style="width: 50vw; min-width: 200px"><img src="https://wallpaperaccess.com/full/1271247.jpg" alt="external" style="width: 50vw;min-width: 200px;"></td>
+                </tr>
+                <tr>
+                    <td><h3>Wimbeldon</h3><br><img src="https://th.bing.com/th/id/R.a72479a1621fc5040347e915ab17b159?rik=BtfkpQ%2fCjRoNMw&pid=ImgRaw&r=0" alt="external" style="width: 50vw; min-width: 200px"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Centre_Court_Wimbledon_(2).jpg" alt="external" style="width: 50vw;min-width: 200px;"></td>
+                    <td><h3>US Open</h3><br><img src="https://cdn.sillyseason.com/wp-content/uploads/2022/08/US-Open-live-stream.jpg" alt="external" style="width: 50vw;min-width: 200px;"><img src="https://photo-assets.usopen.org/images/pics/large/f_logo_NEW_20180319.jpg" alt="external" style="width:50vw; min-width: 200px;"></td> 
+                </tr>
+            </tbody>
+
+        </table>
+        <table>
+            <tbody>
+    
+                <tr>
+                    <td>
+                        <h4>Raquette de tennis adulte - ARTENGO TR990 POWER Rouge Noir 285g</h4><h4>359TND</h4><input type="button" value="buy"><img src="https://contents.mediadecathlon.com/p2486801/k$36ae9673a917eec6bc16dfd3e859684b/raquette-de-tennis-adulte-artengo-tr990-power-rouge-slash-noire.jpg?format=auto&quality=60&f=452x452" alt="external" style="width:50vw;min-width: 200px;">
+                    </td>
+                    <br>
+                    <td><h4>RAQUETTE DE TENNIS ENFANT TR530 25 BLEU</h4><h4>129TND</h4><input type="button" value="buy"><img src="https://contents.mediadecathlon.com/p2498852/k$c5fd882595ad440b955b026bef5bc5df/raquette-de-tennis-enfant-tr530-25.jpg?format=auto&quality=60&f=452x452" alt="external"style="width:50vw;min-width: 200px;"></td>
+                </tr>
+                
+                <tr><td>
+                    <h4>
+                        ARTENGO
+                        Reference 8600512
+                        BALLE DE TENNIS TB160*3 JAUNE</h4><h4>22TND</h4><input type="button" value="buy"><img src="https://contents.mediadecathlon.com/p2716306/k$e46327af70090f3f3318941a44b52a9d/balle-de-tennis-tb1603-jaune.jpg?format=auto&quality=60&f=800x800" alt="external"style="width:50vw;min-width: 200px;">
+                </td>
+                <br>
+                <td><h4>Balle de tennis polyvalente - ARTENGO Comfort Pro * 4 JAUNE 2 Tubes</h4><h4>69TND</h4><input type="button" value="buy"><img src="https://contents.mediadecathlon.com/p2437180/k$c98ac98d9b48ee93ba1df2aa76217cc2/balle-de-tennis-polyvalente-artengo-comfort-pro-4-jaune-2-tubes.jpg?format=auto&quality=60&f=800x800" alt="external"style="width:50vw;min-width: 200px;"></td></tr>
+                
+                <tr><td>
+                    <h4>
+                        Wilson 2024 US Open Mini Bag Tennis Racquet Accessory Bag Blue NWT WR8045101001</h4><h4>126.82TND</h4><input type="button" value="buy"><img src="https://i.ebayimg.com/images/g/T7MAAOSwpJFmxtQN/s-l1600.webp" alt="external"style="width:50vw;min-width: 200px;">
+                </td>
+        
+            </tbody>
+        </table>
+
+    </main>
+
+
+
+    <footer>
+        <h4>send email on this adress for any reclamations: tennis_for_me@gmail.com</h4>
+
+    </footer>
+
+</body>
+</html>
