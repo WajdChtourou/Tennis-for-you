@@ -5,6 +5,5 @@
 <li>Event ticketing</li>
 <li>equipment sales</li>
 <li>tournament databases</li>
-<li></li>
 </ul>
 </body>
